@@ -4,7 +4,8 @@
   <center>What is Churn?</center>
   </center>
 
-<body>Defined loosely, churn is the process by which customers cease doing business with a company. In this particular project, bank churn is how many customers left our bank.
+<body>
+  <h4>Defined loosely, churn is the process by which customers cease doing business with a company. In this particular project, bank churn is how many customers left our bank.
 
 This can be measured based on actual usage or failure to renew (when the product is sold using a subscription model). Often evaluated for a specific period of time, there can be a monthly, quarterly, or annual churn rate.
 
@@ -14,4 +15,5 @@ Why is churn prediction important?
 Preventing a loss in profits is one clear motivation for reducing churn, but other subtleties may underlie a company’s quest to quell it. Most strikingly, the cost of customer acquisition usually starkly outweighs that of customer retention, so stamping out churn also compels from a more subtle financial perspective.
 
 While churn presents an obvious difficulty to businesses, its remedy is not always immediately clear. In many cases, and without descriptive data, companies are at a loss as to what drives it. Luckily, machine learning provides effective methods for identifying churn’s underlying factors and proscriptive tools for addressing it.
+    </h4>
 </body>
